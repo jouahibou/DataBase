@@ -1,0 +1,4 @@
+* * * feb,mar,apr,may * /home/ubuntu/DIAME/exam.sh >> /home/ubuntu/DIAME/cron.txt 2>&1
+./cron.sh: line 1: cron.sh: command not found
+./cron.sh: line 1: cron.sh: command not found
+./cron.sh: line 1: cron.sh: command not found
